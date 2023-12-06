@@ -1,8 +1,8 @@
-Ducky Photo Gallery Privacy Policy
+Ducky Photo  Privacy Policy
 
 introduction
 
-Privacy information refers to the secrets that citizens are unwilling to disclose or know in their personal lives. Ducky Photo Gallery (referring to Nanjing Kuxin Software Technology Co., Ltd., the same below) attaches great importance to the protection of user privacy information. When you use Ducky Photo Gallery products and services, Ducky Photo Gallery may collect and use your relevant information. Ducky Photo Gallery hopes to explain to you through this policy the information that Ducky Photo Gallery may collect (including collection methods), the purpose of collecting this information, Ducky Photo Gallery, and how you protect the security of this information. Please carefully read this policy and understand our rules for handling your personal information before using all products and services of the Ducky Photo Gallery. If you have any questions about this privacy agreement, you can contact us for consultation. If you do not agree to any of the terms in this privacy agreement, you should immediately stop using the products and services of Ducky Photo Gallery. Once you choose to use or update this privacy policy at Ducky Photo Gallery (Ducky Photo Gallery will promptly remind you of the update situation), continuing to use Ducky Photo Gallery products and services means that you acknowledge and accept all contents of this policy (including updated versions), and agree to Ducky Photo Gallery collecting, using, saving, and sharing your relevant information in accordance with this policy.
+Privacy information refers to the secrets that citizens are unwilling to disclose or know in their personal lives. Ducky Photo  (referring to Nanjing Kuxin Software Technology Co., Ltd., the same below) attaches great importance to the protection of user privacy information. When you use Ducky Photo  products and services, Ducky Photo  may collect and use your relevant information. Ducky Photo  hopes to explain to you through this policy the information that Ducky Photo  may collect (including collection methods), the purpose of collecting this information, Ducky Photo , and how you protect the security of this information. Please carefully read this policy and understand our rules for handling your personal information before using all products and services of the Ducky Photo . If you have any questions about this privacy agreement, you can contact us for consultation. If you do not agree to any of the terms in this privacy agreement, you should immediately stop using the products and services of Ducky Photo . Once you choose to use or update this privacy policy at Ducky Photo  (Ducky Photo  will promptly remind you of the update situation), continuing to use Ducky Photo  products and services means that you acknowledge and accept all contents of this policy (including updated versions), and agree to Ducky Photo  collecting, using, saving, and sharing your relevant information in accordance with this policy.
 
 1、 The information we may collect
 
@@ -27,23 +27,23 @@ Privacy information refers to the secrets that citizens are unwilling to disclos
 
 1、 The information we may collect
 
-Ducky Photo Gallery collects information in order to provide better services to all users. The main sources of information collected by Love Duck Photo Gallery include: the information you provided to Love Duck Photo Gallery, the information obtained by Love Duck Photo Gallery during your use of Love Duck Photo Gallery products and services, and your information shared by third parties. The types of information collected by Ducky Photo Gallery mainly include the following:
+Ducky Photo  collects information in order to provide better services to all users. The main sources of information collected by Love Duck Photo  include: the information you provided to Love Duck Photo , the information obtained by Love Duck Photo  during your use of Love Duck Photo  products and services, and your information shared by third parties. The types of information collected by Ducky Photo  mainly include the following:
 
 1. Personal information
 
 Personal information refers to various information recorded electronically or in other ways that can identify the personal identity of a natural person individually or in combination with other information, including but not limited to the name, phone number, etc. of the natural person.
 
-When you register an account or use the products and services of Love Duck Photo Gallery, with your consent and confirmation, Love Duck Photo Gallery may collect relevant personal information you provide, such as name, gender, phone number, etc.
+When you register an account or use the products and services of Love Duck Photo , with your consent and confirmation, Love Duck Photo  may collect relevant personal information you provide, such as name, gender, phone number, etc.
 
 2. Equipment information
 
-Device information refers to the information about the devices you use when using the products or services of Ducky Photo Gallery.
+Device information refers to the information about the devices you use when using the products or services of Ducky Photo .
 
-When you use the products or services of Love Duck Photo Gallery, Love Duck Photo Gallery will collect information related to the devices you use, such as device name, device model, device identification code, operating system and application version, language settings, resolution, service provider network ID (pLMN), IMEI IMSI, Android_ ID, MAC address, obtaining device serial number, obtaining running process information, etc. These pieces of information can help Love Duck Photo Gallery provide you with better information display or product services.
+When you use the products or services of Love Duck Photo , Love Duck Photo  will collect information related to the devices you use, such as device name, device model, device identification code, operating system and application version, language settings, resolution, service provider network ID (pLMN), IMEI IMSI, Android_ ID, MAC address, obtaining device serial number, obtaining running process information, etc. These pieces of information can help Love Duck Photo  provide you with better information display or product services.
 
 4. Log information
 
-When you use the products and services of Love Duck Photo Gallery, the system may automatically collect certain information through cookies or other means and store it in server logs. This type of information may include:
+When you use the products and services of Love Duck Photo , the system may automatically collect certain information through cookies or other means and store it in server logs. This type of information may include:
 
 （1）Device event information, such as crashes, system activity, etc
 
@@ -60,11 +60,11 @@ When you use the products and services of Love Duck Photo Gallery, the system ma
 When you use certain features in the app, we provide you with the [Copy, Paste] function, which will retrieve or modify your clipboard information. Please be informed.
 
 
-2、 The purpose and usage rules of collecting information at Ducky Photo Gallery
+2、 The purpose and usage rules of collecting information at Ducky Photo 
 
 （1） We may use the collected information for the following purposes:
 
-1. When providing products and services at Ducky Photo Gallery, use them for purposes such as identity verification, customer service, security prevention, archiving, and backup to ensure the security of the products and services provided by Ducky Photo Gallery to you.
+1. When providing products and services at Ducky Photo, use them for purposes such as identity verification, customer service, security prevention, archiving, and backup to ensure the security of the products and services provided by Ducky Photo  to you.
 
 2.Software certification or management software upgrades.
 
@@ -90,17 +90,17 @@ When you use certain features in the app, we provide you with the [Copy, Paste] 
 
 （2） Rules for the use of your personal information
 
-1.Ducky Photo Gallery will use the collected information in accordance with the provisions of this privacy policy and to achieve the product and/or service functions of Ducky Photo Gallery.
+1.Ducky Photo  will use the collected information in accordance with the provisions of this privacy policy and to achieve the product and/or service functions of Ducky Photo .
 
-2.After collecting your personal information, Ducky Photo Gallery will use technical means to de identify the data, and the de identified information will not be able to identify the subject. Please understand and agree that in this case, Ducky Photo Gallery has the right to use the information that has been de identified; And on the premise of not disclosing your personal information, you have the right to analyze and commercialize the user database.
+2.After collecting your personal information, Ducky Photo  will use technical means to de identify the data, and the de identified information will not be able to identify the subject. Please understand and agree that in this case, Ducky Photo  has the right to use the information that has been de identified; And on the premise of not disclosing your personal information, you have the right to analyze and commercialize the user database.
 
-3.Please note that all personal information provided by you when using the products and/or services of Love Duck Photo Gallery, unless you delete or refuse to collect it through system settings, will continue to be authorized for use by Love Duck Photo Gallery during your use of Love Duck Photo Gallery's products and/or services. When you cancel your account, Ducky Photo Gallery will stop using and delete your personal information.
+3.Please note that all personal information provided by you when using the products and/or services of Love Duck Photo , unless you delete or refuse to collect it through system settings, will continue to be authorized for use by Love Duck Photo  during your use of Love Duck Photo's products and/or services. When you cancel your account, Ducky Photo  will stop using and delete your personal information.
 
 4.The Love Duck Photography Museum will conduct statistics on the usage of its products and/or services, and may share this statistical information with the public or third parties to showcase the overall usage trend of the Love Duck Photography Museum's products and/or services. But these statistics do not include any identification information for you.
 
-5.When Ducky Photo Gallery displays your personal information, it will use methods including content replacement and anonymous processing to desensitize your information to protect its security.
+5.When Ducky Photo  displays your personal information, it will use methods including content replacement and anonymous processing to desensitize your information to protect its security.
 
-6.When Love Duck Photo Gallery intends to use your personal information for other purposes not specified in this policy, or when information collected for specific purposes is used for other purposes, it will seek your consent in advance by making a check mark on your own initiative.
+6.When Love Duck Photo  intends to use your personal information for other purposes not specified in this policy, or when information collected for specific purposes is used for other purposes, it will seek your consent in advance by making a check mark on your own initiative.
 
 
 3、 Information sharing, transfer, and disclosure
@@ -113,9 +113,9 @@ When you use certain features in the app, we provide you with the [Copy, Paste] 
 
 （2）Provided under the requirements of applicable laws and regulations, legal procedures, and mandatory administrative or judicial requirements;
 
-（3）It is necessary to provide, within the scope permitted by laws and regulations, in order to protect the interests, property, or safety of Love Duck Photo Gallery or its partners, you or other Love Duck Photo Gallery users, or the general public from harm;
+（3）It is necessary to provide, within the scope permitted by laws and regulations, in order to protect the interests, property, or safety of Love Duck Photo  or its partners, you or other Love Duck Photo  users, or the general public from harm;
 
-（4）Only by sharing your information can we achieve the core functions of the products and/or services of Ducky Photo Gallery or provide the services you need;
+（4）Only by sharing your information can we achieve the core functions of the products and/or services of Ducky Photo  or provide the services you need;
 
 （5）Handle disputes or controversies between you and others according to your needs;
 
@@ -125,17 +125,17 @@ When you use certain features in the app, we provide you with the [Copy, Paste] 
 
 （8）Used based on social public interests that comply with laws and regulations.
 
-2.Ducky Photo Gallery may share your personal information with its affiliated parties. But Ducky Photo Gallery will only share necessary personal information and is bound by this privacy policy. If the affiliated parties of Ducky Photo Gallery want to change the purpose of processing personal information, they will seek your authorization and consent again.
+2.Ducky Photo  may share your personal information with its affiliated parties. But Ducky Photo  will only share necessary personal information and is bound by this privacy policy. If the affiliated parties of Ducky Photo  want to change the purpose of processing personal information, they will seek your authorization and consent again.
 
-3.Ducky Photo Gallery may share your information with partners and other third parties to ensure the smooth completion of the services provided to you. But Ducky Photo Gallery will only share your personal information for legitimate, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. The partners of Ducky Photo Gallery have no right to use the shared personal information for any other purpose.
+3.Ducky Photo  may share your information with partners and other third parties to ensure the smooth completion of the services provided to you. But Ducky Photo  will only share your personal information for legitimate, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. The partners of Ducky Photo  have no right to use the shared personal information for any other purpose.
 
-4.For companies, organizations, and individuals who share personal information with Love Duck Photo Gallery, Love Duck Photo Gallery will require them to comply with confidentiality agreements and require them to handle personal information in accordance with Love Duck Photo Gallery's instructions, this privacy policy, and any other relevant confidentiality and security measures.
+4.For companies, organizations, and individuals who share personal information with Love Duck Photo, Love Duck Photo  will require them to comply with confidentiality agreements and require them to handle personal information in accordance with Love Duck Photo 's instructions, this privacy policy, and any other relevant confidentiality and security measures.
 
-5.Exchange information with other companies and organizations in order to comply with laws, enforce or apply the usage conditions and other agreements of Love Duck Photo Gallery, or to protect the rights, property or security of Love Duck Photo Gallery, you or other Love Duck Photo Gallery customers, such as to prevent illegal activities such as fraud and reduce credit risk. However, this does not include the sale, rental, sharing, or other disclosure of personal information for profit purposes in violation of the commitments made in this privacy policy.
+5.Exchange information with other companies and organizations in order to comply with laws, enforce or apply the usage conditions and other agreements of Love Duck Photo , or to protect the rights, property or security of Love Duck Photo , you or other Love Duck Photo  customers, such as to prevent illegal activities such as fraud and reduce credit risk. However, this does not include the sale, rental, sharing, or other disclosure of personal information for profit purposes in violation of the commitments made in this privacy policy.
 
 （2） Transfer of Information
 
-Ducky Photo Gallery will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+Ducky Photo  will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
 
 （1）Obtain your explicit consent or authorization in advance;
 
@@ -143,21 +143,21 @@ Ducky Photo Gallery will not transfer your personal information to any company, 
 
 （3）Provided in accordance with the relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
 
-（4）When it comes to mergers, acquisitions, asset transfers or similar transactions, if it involves the transfer of personal information, Love Duck Photo Gallery will require the new company or organization that holds your personal information to continue to be bound by this privacy policy. Otherwise, Love Duck Photo Gallery will require the company or organization to seek your authorization and consent again.
+（4）When it comes to mergers, acquisitions, asset transfers or similar transactions, if it involves the transfer of personal information, Love Duck Photo  will require the new company or organization that holds your personal information to continue to be bound by this privacy policy. Otherwise, Love Duck Photo  will require the company or organization to seek your authorization and consent again.
 
 （3） Disclosure of Information
 
-Ducky Photo Gallery will only publicly disclose your personal information under the following circumstances, provided that it adopts industry standard security measures:
+Ducky Photo  will only publicly disclose your personal information under the following circumstances, provided that it adopts industry standard security measures:
 
-（1）You agree or authorize the disclosure by Ducky Photo Gallery;
+（1）You agree or authorize the disclosure by Ducky Photo ;
 
 （2）You use the sharing function;
 
-（3）In cases where it is required by laws, regulations, mandatory administrative enforcement or judicial requirements to provide your personal information, Ducky Photo Gallery may publicly disclose your personal information based on the type and disclosure method required. Under the premise of complying with laws and regulations, when the Love Duck Photography Museum receives a request for disclosure of the above information, it will require the issuance of corresponding legal documents. The Love Duck Photography Museum has carefully reviewed all requests to ensure that they have legal basis and are limited to data that law enforcement agencies have the legal right to obtain for specific investigation purposes;
+（3）In cases where it is required by laws, regulations, mandatory administrative enforcement or judicial requirements to provide your personal information, Ducky Photo  may publicly disclose your personal information based on the type and disclosure method required. Under the premise of complying with laws and regulations, when the Love Duck Photography Museum receives a request for disclosure of the above information, it will require the issuance of corresponding legal documents. The Love Duck Photography Museum has carefully reviewed all requests to ensure that they have legal basis and are limited to data that law enforcement agencies have the legal right to obtain for specific investigation purposes;
 
-（4）In emergency situations, in order to protect the legitimate rights and interests of you, Love Duck Photo Gallery, and other users, as well as public safety and interests;
+（4）In emergency situations, in order to protect the legitimate rights and interests of you, Love Duck Photo , and other users, as well as public safety and interests;
 
-（5）Comply with the provisions of the user agreement or other similar agreements related to the products and services of Ducky Photo Gallery.
+（5）Comply with the provisions of the user agreement or other similar agreements related to the products and services of Ducky Photo .
 
 （4） How do we share, transfer, and publicly disclose your personal information
 
@@ -176,41 +176,41 @@ When you choose to participate in marketing activities organized by our affiliat
 
 4、 Our information security protection
 
-1. Love Duck Photo Gallery only retains your personal information for the period necessary for the purposes stated in this policy and within the time limit required by laws and regulations.
+1. Love Duck Photo  only retains your personal information for the period necessary for the purposes stated in this policy and within the time limit required by laws and regulations.
 
-2. Data security technology measures: Ducky Photo Gallery will adopt security protection measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent unauthorized access, modification, and data damage or loss of your personal information; Ducky Photo Gallery will use security technology and programs to monitor and record network operation status and network security incidents, and take necessary technical measures to ensure network security to prevent information loss, improper use, unauthorized reading or disclosure. For example, in certain services, Love Duck Photo Gallery will use encryption technology to protect the personal information you provide. But please understand that due to technological limitations and various malicious means that may exist, even if every effort is made to strengthen security measures in the internet industry, it is impossible to always ensure 100% security of information. You need to understand that the system and communication network you use to access the products and services of Ducky Photo Gallery may encounter problems due to factors beyond the controllable range of Ducky Photo Gallery.
+2. Data security technology measures: Ducky Photo  will adopt security protection measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent unauthorized access, modification, and data damage or loss of your personal information; Ducky Photo  will use security technology and programs to monitor and record network operation status and network security incidents, and take necessary technical measures to ensure network security to prevent information loss, improper use, unauthorized reading or disclosure. For example, in certain services, Love Duck Photo  will use encryption technology to protect the personal information you provide. But please understand that due to technological limitations and various malicious means that may exist, even if every effort is made to strengthen security measures in the internet industry, it is impossible to always ensure 100% security of information. You need to understand that the system and communication network you use to access the products and services of Ducky Photo  may encounter problems due to factors beyond the controllable range of Ducky Photo .
 
-3. Ducky Photo Gallery only allows employees and partners who need to know this information to access personal information, and strict access control and monitoring mechanisms have been established for this purpose. Ducky Photo Gallery also requires all personnel who may come into contact with your personal information to fulfill corresponding confidentiality obligations. If these obligations are not fulfilled, legal responsibility may be pursued or the cooperation with the Love Duck Photo Studio may be suspended.
+3. Ducky Photo  only allows employees and partners who need to know this information to access personal information, and strict access control and monitoring mechanisms have been established for this purpose. Ducky Photo  also requires all personnel who may come into contact with your personal information to fulfill corresponding confidentiality obligations. If these obligations are not fulfilled, legal responsibility may be pursued or the cooperation with the Love Duck Photo Studio may be suspended.
 
-4. Ducky Photo Gallery will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. Ducky Photo Gallery will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of the retention period is required or permitted by law.
+4. Ducky Photo  will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. Ducky Photo  will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of the retention period is required or permitted by law.
 
-5. The content and information you provide, upload, or publish when using the products and services of Love Duck Photo Gallery (such as photos of your personal activities) may leak your personal information. You need to carefully consider whether to disclose relevant personal information when using the products and services of Love Duck Photo Gallery. In some cases, you can control the range of users who have the right to browse your shared information through the privacy settings of certain products and services at Ducky Photo Gallery.
+5. The content and information you provide, upload, or publish when using the products and services of Love Duck Photo  (such as photos of your personal activities) may leak your personal information. You need to carefully consider whether to disclose relevant personal information when using the products and services of Love Duck Photo . In some cases, you can control the range of users who have the right to browse your shared information through the privacy settings of certain products and services at Ducky Photo .
 
-6. The Internet is not an absolutely secure environment, and communication methods with other users such as email, instant messaging, and social media cannot be fully encrypted. Love Duck Photo Gallery recommends that you use complex passwords when using such tools and pay attention to protecting your personal information security.
+6. The Internet is not an absolutely secure environment, and communication methods with other users such as email, instant messaging, and social media cannot be fully encrypted. Love Duck Photo  recommends that you use complex passwords when using such tools and pay attention to protecting your personal information security.
 
-7. Security Incident Handling: In response to potential risks such as personal information leakage, damage, and loss, Ducky Photo Gallery has established a dedicated emergency response team. In accordance with the company's relevant security incident handling regulations, security plans are launched for different security incidents to stop losses, analyze, develop remedial measures, and collaborate with relevant departments to trace and crack down. At the same time, the Love Duck Photography Museum will promptly inform you of the basic situation and possible impact of the safety incident in accordance with legal requirements, the disposal measures that the Love Duck Photography Museum has taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you. Ducky Photo Gallery will promptly inform you of the relevant situation of the incident through email, letter, phone, and other means. If it is difficult to inform the personal information subject one by one, Ducky Photo Gallery will take reasonable and effective measures to publish an announcement. At the same time, Ducky Photo Gallery will also proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+7. Security Incident Handling: In response to potential risks such as personal information leakage, damage, and loss, Ducky Photo  has established a dedicated emergency response team. In accordance with the company's relevant security incident handling regulations, security plans are launched for different security incidents to stop losses, analyze, develop remedial measures, and collaborate with relevant departments to trace and crack down. At the same time, the Love Duck Photography Museum will promptly inform you of the basic situation and possible impact of the safety incident in accordance with legal requirements, the disposal measures that the Love Duck Photography Museum has taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you. Ducky Photo  will promptly inform you of the relevant situation of the incident through email, letter, phone, and other means. If it is difficult to inform the personal information subject one by one, Ducky Photo  will take reasonable and effective measures to publish an announcement. At the same time, Ducky Photo  will also proactively report the handling of personal information security incidents in accordance with regulatory requirements.
 
 
 5、 Your management of personal information
 
 1. You have the right to access, correct, and delete your personal information; But the deletion or modification of relevant information may affect your use of related products or services or lead to the implementation of some functions.
 
-2. You have the right to change the scope of your authorization or withdraw your authorization; You can change the scope of your authorization for Love Duck Photo Gallery to continue collecting personal information or revoke your authorization by deleting information, disabling device functions, setting privacy settings on the website or software, etc. Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, Ducky Photo Gallery cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, and will no longer process your corresponding personal information. But your decision to withdraw your consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+2. You have the right to change the scope of your authorization or withdraw your authorization; You can change the scope of your authorization for Love Duck Photo  to continue collecting personal information or revoke your authorization by deleting information, disabling device functions, setting privacy settings on the website or software, etc. Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, Ducky Photo  cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, and will no longer process your corresponding personal information. But your decision to withdraw your consent or authorization will not affect the personal information processing previously carried out based on your authorization.
 
-3. Ducky Photo Gallery will take appropriate technical measures to ensure that you can query, supplement, correct or delete your personal information, or apply for Ducky Photo Gallery to supplement, correct or delete relevant information through feedback or complaint channels related to Ducky Photo Gallery's products or services; After receiving your application, the Love Duck Photography Museum will process it according to the process (such as the Love Duck Photography Museum may require you to provide relevant proof to confirm your identity).
+3. Ducky Photo  will take appropriate technical measures to ensure that you can query, supplement, correct or delete your personal information, or apply for Ducky Photo  to supplement, correct or delete relevant information through feedback or complaint channels related to Ducky Photo 's products or services; After receiving your application, the Love Duck Photography Museum will process it according to the process (such as the Love Duck Photography Museum may require you to provide relevant proof to confirm your identity).
 
-4. If you are unable to access, correct, or delete your personal information, or if you need to access, correct, or delete other personal information that you have generated while using the products and/or services of the Love Duck Photography Museum, or if you believe that the Love Duck Photography Museum has any violations of laws and regulations or any agreements with you regarding the collection or use of personal information, you can use the official feedback channels of the relevant products or services published by the Love Duck Photography Museum to the public or through email lemengnj2017@163.com Contact Ducky Photo Gallery.
+4. If you are unable to access, correct, or delete your personal information, or if you need to access, correct, or delete other personal information that you have generated while using the products and/or services of the Love Duck Photography Museum, or if you believe that the Love Duck Photography Museum has any violations of laws and regulations or any agreements with you regarding the collection or use of personal information, you can use the official feedback channels of the relevant products or services published by the Love Duck Photography Museum to the public or through email lemengnj2017@163.com Contact Ducky Photo .
 
 
 6、 Protection of information for minors
 
-1. Ducky Photo Gallery attaches great importance to the protection of personal information of minors< b> If you are a minor under the age of 18, you should obtain the consent of your parents or their legal guardians (hereinafter collectively referred to as "guardians") before submitting personal information
+1. Ducky Photo  attaches great importance to the protection of personal information of minors< b> If you are a minor under the age of 18, you should obtain the consent of your parents or their legal guardians (hereinafter collectively referred to as "guardians") before submitting personal information
 
 2. The Love Duck Photo Studio encourages guardians to guide minors in using its products and services, and recommends that minors encourage their guardians to read this policy.
 
 3. Guardians should bear the primary responsibility of protecting the privacy rights of minors in the online environment.
 
-4. Ducky Photo Gallery will protect the relevant information of minors in accordance with relevant national laws and regulations.
+4. Ducky Photo  will protect the relevant information of minors in accordance with relevant national laws and regulations.
 
 
 7、 Cancel account
@@ -220,31 +220,31 @@ You can go to the path: Personal Center -> Settings -> Account cancellation Afte
 
 8、 Disclaimer clause
 
-Except for the exemption situations listed in this policy, Love Duck Photo Gallery is not responsible for any of the following situations:
+Except for the exemption situations listed in this policy, Love Duck Photo  is not responsible for any of the following situations:
 
 1. Any personal information leakage, loss, theft, or tampering caused by you informing others of your user password, sharing your registered account with others, or other improper personal storage.
 
 2. Any personal data leakage, loss, theft, or tampering caused by force majeure factors such as hacker attacks, computer virus intrusion or outbreak, temporary shutdowns caused by government regulation that affect the normal operation of the network.
 
-3. Any legal disputes and consequences arising from the leakage of personal information caused by other websites linked to Ducky Photo Gallery.
+3. Any legal disputes and consequences arising from the leakage of personal information caused by other websites linked to Ducky Photo.
 
 4. Any legal disputes and consequences arising from the leakage of personal information not caused by the Love Duck Photo Studio.
 
 
 9、 Scope of application of this policy
 
-1. All products and services of Ducky Photo Gallery are subject to this policy. Specific privacy policies for certain specific products and services will be specifically specified in the usage agreements or separate privacy agreements for the relevant products and services. The privacy terms of these specific products and services form part of this policy. If there is any inconsistency between the privacy terms of specific products and services and this policy, the privacy terms of that specific product and service shall apply.
+1. All products and services of Ducky Photo are subject to this policy. Specific privacy policies for certain specific products and services will be specifically specified in the usage agreements or separate privacy agreements for the relevant products and services. The privacy terms of these specific products and services form part of this policy. If there is any inconsistency between the privacy terms of specific products and services and this policy, the privacy terms of that specific product and service shall apply.
 
-2. This policy only applies to the information collected by Ducky Photo Gallery and does not apply to any products and services provided by third parties or the rules for the use of information by third parties, such as information collected through the products and services of Ducky Photo Gallery (including any third-party websites), and does not apply to this policy. Love Duck Photo Gallery assumes no responsibility for any third-party use of the information provided by you.
+2. This policy only applies to the information collected by Ducky Photo and does not apply to any products and services provided by third parties or the rules for the use of information by third parties, such as information collected through the products and services of Ducky Photo  (including any third-party websites), and does not apply to this policy. Love Duck Photo  assumes no responsibility for any third-party use of the information provided by you.
 
-3. If you have any questions about this privacy policy when using the products or services of Ducky Photo Gallery, you can provide feedback through the official channels of the relevant products or services published by Ducky Photo Gallery or through email lemengnj2017@163.com Contact Ducky Photo Gallery.
+3. If you have any questions about this privacy policy when using the products or services of Ducky Photo, you can provide feedback through the official channels of the relevant products or services published by Ducky Photo  or through email lemengnj2017@163.com Contact Ducky Photo.
 
 4. In this policy, "affiliated companies" refer to enterprises that currently or in the future form a relationship with Nanjing Kuxin Software Technology Co., Ltd., in which one party has the ability to directly or indirectly control, jointly control, or exert significant influence on the other party, and two or more parties are jointly controlled, jointly controlled, or significantly influenced by the same party.
 
 
 10、 Revision and effective date of this policy
 
-Ducky Photo Gallery may revise the terms of this policy from time to time, and such revisions form part of this policy. The revised policy will be promptly released by Ducky Photo Gallery. If you continue to use the products and services of Ducky Photo Gallery, it means that you agree to be bound by the revised privacy policy.
+Ducky Photo  may revise the terms of this policy from time to time, and such revisions form part of this policy. The revised policy will be promptly released by Ducky Photo. If you continue to use the products and services of Ducky Photo , it means that you agree to be bound by the revised privacy policy.
 
 This policy was released on 2023-12-01 and will take effect from 2023-12-01.
 
